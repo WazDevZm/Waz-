@@ -98,3 +98,5 @@ class WazDevVoiceAssistant:
 
 ai_voice_agent = WazDevVoiceAssistant()
 ai_voice_agent.start_transcription()
+# By Wazingwa Mugala
+# Software Engineer @CLS
